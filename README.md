@@ -4,3 +4,4 @@
 - _ Configuration >> Customization 
 - _ Where to start your project code.
 - _ Primitive facts and Data law.
+- _ Economics, Finance and Medical Analogies 
